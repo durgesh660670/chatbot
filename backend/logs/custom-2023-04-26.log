@@ -1,0 +1,18 @@
+2023-04-26T22:53:18+05:30 [INFO]: courses:[]
+2023-04-26T23:13:44+05:30 [INFO]: courses:[]
+2023-04-26T23:17:38+05:30 [INFO]: courses:[]
+2023-04-26T23:17:57+05:30 [INFO]: savedCourse:{"title":"express js","content":"This course provides an overview of MongoDB and its features.","videos":6,"active":true,"_id":"644963cde132fac4a0df7441","__v":0}
+2023-04-26T23:19:24+05:30 [INFO]: courses:[{"_id":"644963cde132fac4a0df7441","title":"express js","content":"This course provides an overview of MongoDB and its features.","videos":6,"active":true,"__v":0}]
+2023-04-26T23:20:49+05:30 [INFO]: courses:[{"_id":"644963cde132fac4a0df7441","title":"express js","content":"This course provides an overview of MongoDB and its features.","videos":6,"active":true,"__v":0}]
+2023-04-26T23:21:06+05:30 [INFO]: savedCourse:{"title":"express js","content":"This course provides an overview of MongoDB and its features.","videos":6,"active":true,"_id":"6449648ad27d3bed965433f9","__v":0}
+2023-04-26T23:22:59+05:30 [INFO]: course:null
+2023-04-26T23:23:52+05:30 [INFO]: courses:[{"_id":"644963cde132fac4a0df7441","title":"express js","content":"This course provides an overview of MongoDB and its features.","videos":6,"active":true,"__v":0},{"_id":"6449648ad27d3bed965433f9","title":"express js","content":"This course provides an overview of MongoDB and its features.","videos":6,"active":true,"__v":0}]
+2023-04-26T23:24:43+05:30 [INFO]: courses:[{"_id":"644963cde132fac4a0df7441","title":"express js","content":"This course provides an overview of MongoDB and its features.","videos":6,"active":true,"__v":0},{"_id":"6449648ad27d3bed965433f9","title":"express js","content":"This course provides an overview of MongoDB and its features.","videos":6,"active":true,"__v":0}]
+2023-04-26T23:27:59+05:30 [INFO]: courses:[{"_id":"644963cde132fac4a0df7441","title":"express js","content":"This course provides an overview of MongoDB and its features.","videos":6,"active":true,"__v":0},{"_id":"6449648ad27d3bed965433f9","title":"express js","content":"This course provides an overview of MongoDB and its features.","videos":6,"active":true,"__v":0}]
+2023-04-26T23:28:15+05:30 [INFO]: course:null
+2023-04-26T23:29:54+05:30 [INFO]: course:null
+2023-04-26T23:30:29+05:30 [INFO]: courses:[{"_id":"644963cde132fac4a0df7441","title":"express js","content":"This course provides an overview of MongoDB and its features.","videos":6,"active":true,"__v":0},{"_id":"6449648ad27d3bed965433f9","title":"express js","content":"This course provides an overview of MongoDB and its features.","videos":6,"active":true,"__v":0}]
+2023-04-26T23:32:05+05:30 [INFO]: course:null
+2023-04-26T23:33:03+05:30 [INFO]: course:null
+2023-04-26T23:33:40+05:30 [INFO]: course:null
+2023-04-26T23:33:49+05:30 [INFO]: course:null

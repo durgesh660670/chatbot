@@ -1,0 +1,20 @@
+{"level":"info","message":"courses:[]"}
+{"level":"info","message":"courses:[]"}
+{"level":"info","message":"courses:[]"}
+{"level":"info","message":"savedCourse:{\"title\":\"express js\",\"content\":\"This course provides an overview of MongoDB and its features.\",\"videos\":6,\"active\":true,\"_id\":\"644963cde132fac4a0df7441\",\"__v\":0}"}
+{"level":"info","message":"courses:[{\"_id\":\"644963cde132fac4a0df7441\",\"title\":\"express js\",\"content\":\"This course provides an overview of MongoDB and its features.\",\"videos\":6,\"active\":true,\"__v\":0}]"}
+{"level":"info","message":"courses:[{\"_id\":\"644963cde132fac4a0df7441\",\"title\":\"express js\",\"content\":\"This course provides an overview of MongoDB and its features.\",\"videos\":6,\"active\":true,\"__v\":0}]"}
+{"level":"info","message":"savedCourse:{\"title\":\"express js\",\"content\":\"This course provides an overview of MongoDB and its features.\",\"videos\":6,\"active\":true,\"_id\":\"6449648ad27d3bed965433f9\",\"__v\":0}"}
+{"level":"info","message":"course:null"}
+{"level":"info","message":"courses:[{\"_id\":\"644963cde132fac4a0df7441\",\"title\":\"express js\",\"content\":\"This course provides an overview of MongoDB and its features.\",\"videos\":6,\"active\":true,\"__v\":0},{\"_id\":\"6449648ad27d3bed965433f9\",\"title\":\"express js\",\"content\":\"This course provides an overview of MongoDB and its features.\",\"videos\":6,\"active\":true,\"__v\":0}]"}
+{"level":"info","message":"courses:[{\"_id\":\"644963cde132fac4a0df7441\",\"title\":\"express js\",\"content\":\"This course provides an overview of MongoDB and its features.\",\"videos\":6,\"active\":true,\"__v\":0},{\"_id\":\"6449648ad27d3bed965433f9\",\"title\":\"express js\",\"content\":\"This course provides an overview of MongoDB and its features.\",\"videos\":6,\"active\":true,\"__v\":0}]"}
+{"level":"info","message":"courses:[{\"_id\":\"644963cde132fac4a0df7441\",\"title\":\"express js\",\"content\":\"This course provides an overview of MongoDB and its features.\",\"videos\":6,\"active\":true,\"__v\":0},{\"_id\":\"6449648ad27d3bed965433f9\",\"title\":\"express js\",\"content\":\"This course provides an overview of MongoDB and its features.\",\"videos\":6,\"active\":true,\"__v\":0}]"}
+{"level":"info","message":"course:null"}
+{"level":"info","message":"course:null"}
+{"level":"info","message":"courses:[{\"_id\":\"644963cde132fac4a0df7441\",\"title\":\"express js\",\"content\":\"This course provides an overview of MongoDB and its features.\",\"videos\":6,\"active\":true,\"__v\":0},{\"_id\":\"6449648ad27d3bed965433f9\",\"title\":\"express js\",\"content\":\"This course provides an overview of MongoDB and its features.\",\"videos\":6,\"active\":true,\"__v\":0}]"}
+{"level":"info","message":"course:null"}
+{"level":"info","message":"course:null"}
+{"level":"info","message":"course:null"}
+{"level":"info","message":"course:null"}
+{"level":"info","message":"savedCourse:{\"title\":\"python\",\"content\":\"This course provides an overview of MongoDB and its features.\",\"videos\":6,\"active\":true,\"_id\":\"6482004ee0b8eb0305b9afb0\",\"__v\":0}"}
+{"level":"info","message":"courses:[{\"_id\":\"6482004ee0b8eb0305b9afb0\",\"title\":\"python\",\"content\":\"This course provides an overview of MongoDB and its features.\",\"videos\":6,\"active\":true,\"__v\":0}]"}
